@@ -1,0 +1,9 @@
+sources:
+  - name: staging
+    database: AIRBNBSNOW 
+    schema: staging 
+    tables:
+      - name: bookings
+      - name: listings
+      - name: hosts
+
